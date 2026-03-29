@@ -3,9 +3,9 @@
 
 
 <template>
-    <nav class="navbar navbar-expand-lg bg-body-tertiary ">
+    <nav class="navbar navbar-expand-lg surface borders">
         <div class="container-fluid container">
-            <a class="navbar-brand" href="#">Julián Toledo</a>
+            <a class="navbar-brand primary-text" href="#">Julián Toledo</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
                 aria-label="Toggle navigation">
@@ -42,3 +42,9 @@
         </div>
     </nav>
 </template>
+
+<style scoped>
+    .nav-link{
+        color: var(--primary-text) !important;
+    }
+</style>

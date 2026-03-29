@@ -68,7 +68,5 @@ import githubIcon from "@/assets/imgs/icons/github.png"
         width: 50px;
     }
 
-    .mainSection{
-        
-    }
+    
 </style>
