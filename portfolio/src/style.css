@@ -3,3 +3,17 @@
   margin: 0;
   padding: 0;
 }
+
+:root{
+  --background: #0F1115;
+  --surface: #171A21;
+  --primary-text-hex: #F5F7FA;
+  --secondary-text: #A9B0BD;
+  --main-color: #00E1E1;
+  --hover-blue: #00CCCC;
+  --borders: #2A3040;
+}
+
+body{
+  background-color: var(--background-hex);
+}

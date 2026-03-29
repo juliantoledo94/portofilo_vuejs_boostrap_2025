@@ -44,8 +44,6 @@ import githubIcon from "@/assets/imgs/icons/github.png"
         </div>
     </section>
 
-
-
 </template>
 
 
@@ -68,5 +66,9 @@ import githubIcon from "@/assets/imgs/icons/github.png"
 
     .mediaSizes{
         width: 50px;
+    }
+
+    .mainSection{
+        
     }
 </style>
