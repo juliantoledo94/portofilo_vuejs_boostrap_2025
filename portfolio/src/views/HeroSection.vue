@@ -16,7 +16,6 @@ import githubIcon from "@/assets/imgs/icons/github.png"
                 <div class="col-12 col-xl-6 d-flex justify-content-center align-items-center">
                     <div class="circlediv">
 
-                        <!-- <img class="w-100" :src="profilePicture" alt="Julian's profile picture"> -->
                     </div>
                 </div>
     
